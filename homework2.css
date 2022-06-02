@@ -1,0 +1,27 @@
+.aaa {
+    height: 350px;
+    font-weight: 250px;
+}
+
+h2{
+        margin: 0;
+}
+figure{
+    text-align: center;
+}
+
+.bbb{
+    margin: 0%;
+}
+body{
+    margin-left: 18%;
+    margin-right: 18%;
+    background: rgba(235, 191, 61, 0.381);
+    border: 5px solid rgb(211, 157, 10);
+    padding: 10px 10px;
+}
+
+span{
+
+    font-weight: bold;
+}
